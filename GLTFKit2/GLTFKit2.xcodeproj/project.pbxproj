@@ -27,7 +27,6 @@
 		83BEF9D725CF3240005DFE80 /* GLTFModelIO.h in Headers */ = {isa = PBXBuildFile; fileRef = 83BEF9D525CF3240005DFE80 /* GLTFModelIO.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		83BEF9D825CF3240005DFE80 /* GLTFModelIO.m in Sources */ = {isa = PBXBuildFile; fileRef = 83BEF9D625CF3240005DFE80 /* GLTFModelIO.m */; };
 		83DA575726DEEAA9007B440E /* GLTFLogging.h in Headers */ = {isa = PBXBuildFile; fileRef = 83DA575526DEEAA9007B440E /* GLTFLogging.h */; };
-		83DB5F512992BA9800B0190E /* GLTFRealityKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DB5F502992BA9800B0190E /* GLTFRealityKit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,7 +54,6 @@
 		83BEF9D625CF3240005DFE80 /* GLTFModelIO.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLTFModelIO.m; sourceTree = "<group>"; };
 		83C1BC9C25C3EABF003A485D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		83DA575526DEEAA9007B440E /* GLTFLogging.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLTFLogging.h; sourceTree = "<group>"; };
-		83DB5F502992BA9800B0190E /* GLTFRealityKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GLTFRealityKit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +104,6 @@
 				83BEF9D625CF3240005DFE80 /* GLTFModelIO.m */,
 				834AD60825E1A3960010608A /* GLTFSceneKit.h */,
 				834AD60925E1A3960010608A /* GLTFSceneKit.m */,
-				83DB5F502992BA9800B0190E /* GLTFRealityKit.swift */,
 				833A50CC2BDEC39700184DA8 /* PrivacyInfo.xcprivacy */,
 				834FF1C825C27938001887C2 /* Info.plist */,
 			);
@@ -245,7 +242,6 @@
 				83821E06280CF37600D4A11A /* GLTFWorkflowHelper.m in Sources */,
 				834FF1DA25C3BE51001887C2 /* GLTFAssetReader.m in Sources */,
 				83BEF9D825CF3240005DFE80 /* GLTFModelIO.m in Sources */,
-				83DB5F512992BA9800B0190E /* GLTFRealityKit.swift in Sources */,
 				834FF1D325C27A02001887C2 /* GLTFAsset.m in Sources */,
 				836F83DB2AF063A40036AC4A /* GLTFMeshoptSupport.mm in Sources */,
 			);
